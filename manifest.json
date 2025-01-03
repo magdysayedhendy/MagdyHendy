@@ -1,0 +1,46 @@
+{
+  "name": "مجدي هندي",
+  "short_name": "الكاتب",
+  "start_url": "https://elkatibmagdyhendy.blogspot.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#015c9d",
+  "description": "موقع الكاتب مجدي هندي وسيلة ممتازة للقراء لمعرفة المزيد عن المؤلف وعمله. الموقع مليء بمعلومات عن الكاتب مجدي هندي، بالإضافة إلى منصة للقراء للتواصل معه ومع غيره من محبي أعماله. بفضل ثروته من المعلومات والميزات التفاعلية، يعد موقع الكاتب مجدي هندي مصدرا رائعا لأولئك الذين يتطلعون إلى معرفة المزيد عن المؤلف",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDqV3PXJvgDbhNLorNatEXh0BSEBYynRiQtbhfXlXvIxWKJvgt1Oed_uEttVznMfpW6hAwoMDLP4gwXE7NESNaVHAm8DrpFtrB9BfwFicSmgurcFq2JqDqwivE9HViX0Q7HaFMBH4YX7ThyAd2w3y7eHnHemvsdx6mZ54FmpCuqIGUW3AoJ5m1QCmfw/s48/Blogger%20Logo.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDqV3PXJvgDbhNLorNatEXh0BSEBYynRiQtbhfXlXvIxWKJvgt1Oed_uEttVznMfpW6hAwoMDLP4gwXE7NESNaVHAm8DrpFtrB9BfwFicSmgurcFq2JqDqwivE9HViX0Q7HaFMBH4YX7ThyAd2w3y7eHnHemvsdx6mZ54FmpCuqIGUW3AoJ5m1QCmfw/s72/Blogger%20Logo.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDqV3PXJvgDbhNLorNatEXh0BSEBYynRiQtbhfXlXvIxWKJvgt1Oed_uEttVznMfpW6hAwoMDLP4gwXE7NESNaVHAm8DrpFtrB9BfwFicSmgurcFq2JqDqwivE9HViX0Q7HaFMBH4YX7ThyAd2w3y7eHnHemvsdx6mZ54FmpCuqIGUW3AoJ5m1QCmfw/s96/Blogger%20Logo.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDqV3PXJvgDbhNLorNatEXh0BSEBYynRiQtbhfXlXvIxWKJvgt1Oed_uEttVznMfpW6hAwoMDLP4gwXE7NESNaVHAm8DrpFtrB9BfwFicSmgurcFq2JqDqwivE9HViX0Q7HaFMBH4YX7ThyAd2w3y7eHnHemvsdx6mZ54FmpCuqIGUW3AoJ5m1QCmfw/s144/Blogger%20Logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDqV3PXJvgDbhNLorNatEXh0BSEBYynRiQtbhfXlXvIxWKJvgt1Oed_uEttVznMfpW6hAwoMDLP4gwXE7NESNaVHAm8DrpFtrB9BfwFicSmgurcFq2JqDqwivE9HViX0Q7HaFMBH4YX7ThyAd2w3y7eHnHemvsdx6mZ54FmpCuqIGUW3AoJ5m1QCmfw/s168/Blogger%20Logo.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDqV3PXJvgDbhNLorNatEXh0BSEBYynRiQtbhfXlXvIxWKJvgt1Oed_uEttVznMfpW6hAwoMDLP4gwXE7NESNaVHAm8DrpFtrB9BfwFicSmgurcFq2JqDqwivE9HViX0Q7HaFMBH4YX7ThyAd2w3y7eHnHemvsdx6mZ54FmpCuqIGUW3AoJ5m1QCmfw/s192/Blogger%20Logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDqV3PXJvgDbhNLorNatEXh0BSEBYynRiQtbhfXlXvIxWKJvgt1Oed_uEttVznMfpW6hAwoMDLP4gwXE7NESNaVHAm8DrpFtrB9BfwFicSmgurcFq2JqDqwivE9HViX0Q7HaFMBH4YX7ThyAd2w3y7eHnHemvsdx6mZ54FmpCuqIGUW3AoJ5m1QCmfw/s512/Blogger%20Logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
